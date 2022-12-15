@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch g_ceil",
+            "request": "launch",
+            "mainClass": "BinarySearch.g_ceil",
+            "projectName": "Searching_1e935157"
+        },
+        {
+            "type": "java",
+            "name": "Launch f_floor",
+            "request": "launch",
+            "mainClass": "BinarySearch.f_floor",
+            "projectName": "Searching_1e935157"
+        },
+        {
+            "type": "java",
+            "name": "Launch trying",
+            "request": "launch",
+            "mainClass": "BinarySearch.trying",
+            "projectName": "Searching_1e935157"
+        },
+        {
+            "type": "java",
             "name": "Launch e_searchEl_in_NearlySortedArr",
             "request": "launch",
             "mainClass": "BinarySearch.e_searchEl_in_NearlySortedArr",
