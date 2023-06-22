@@ -1,4 +1,9 @@
-// 852. Peak Index in a Mountain Array => https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+// 852. Peak Index in a Mountain Array =>
+// https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+
+// 162. Find Peak Element => has the same solution
+// https://leetcode.com/problems/find-peak-element/description/
+
 /**
  * @param {number[]} arr
  * @return {number}
