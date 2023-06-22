@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 public class e_searchEl_in_NearlySortedArr {
     public static void main(String[] args) {

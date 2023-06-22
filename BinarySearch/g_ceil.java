@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 public class g_ceil {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 // Find the greatest element which is smaller than target, from the sorted arr 
 public class f_floor {

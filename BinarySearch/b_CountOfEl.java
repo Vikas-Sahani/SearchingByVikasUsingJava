@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 public class b_CountOfEl {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 public class c_CountRotaion {
     public static void main(String[] args) {

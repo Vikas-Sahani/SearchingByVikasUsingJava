@@ -1,4 +1,4 @@
-package BinarySearch;
+package Searching.BinarySearch;
 
 public class d_searchElRotatedSortedArr {
     public static int bs(int nums[], int start, int end, int target) {
